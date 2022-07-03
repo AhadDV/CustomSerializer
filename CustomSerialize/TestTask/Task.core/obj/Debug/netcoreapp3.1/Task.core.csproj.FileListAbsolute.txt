@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\TestTask\Task.core\obj\Debug\netcoreapp3.1\Task.core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TestTask\Task.core\obj\Debug\netcoreapp3.1\Task.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TestTask\Task.core\obj\Debug\netcoreapp3.1\Task.core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TestTask\Task.core\obj\Debug\netcoreapp3.1\Task.core.AssemblyInfo.cs
+C:\Users\HP\source\repos\TestTask\Task.core\obj\Debug\netcoreapp3.1\Task.core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TestTask\Task.core\bin\Debug\netcoreapp3.1\Task.core.deps.json
+C:\Users\HP\source\repos\TestTask\Task.core\bin\Debug\netcoreapp3.1\Task.core.dll
+C:\Users\HP\source\repos\TestTask\Task.core\bin\Debug\netcoreapp3.1\Task.core.pdb
+C:\Users\HP\source\repos\TestTask\Task.core\obj\Debug\netcoreapp3.1\Task.core.dll
+C:\Users\HP\source\repos\TestTask\Task.core\obj\Debug\netcoreapp3.1\Task.core.pdb
