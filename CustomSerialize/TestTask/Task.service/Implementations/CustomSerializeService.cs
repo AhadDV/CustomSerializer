@@ -62,6 +62,9 @@ namespace Task.service.Implementations
             var listMyData = new List<Task.core.Entities.Data>();
             text=  String.Concat(text.Where(c => !Char.IsWhiteSpace(c)));
             var index = text.IndexOf(":{");
+             if (index!=-1)
+            {
+
             int nearest = 0;
             for (int i = 0; i < text.Length; i++)
             {
@@ -100,6 +103,8 @@ namespace Task.service.Implementations
                     listMyData.Add(new Task.core.Entities.Data { PropertyName = pName, Value = pValue });
                 }
             }
+            }
+         
             return listMyData;
         }
 
